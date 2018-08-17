@@ -11,8 +11,6 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import projects.karlosp3rez.createeventsui.Common.Common;
 import projects.karlosp3rez.createeventsui.Interface.IItemClickListener;
 import projects.karlosp3rez.createeventsui.Model.Categoria;
 import projects.karlosp3rez.createeventsui.R;
