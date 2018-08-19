@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CreateEventsUI</string>
+    <string name="create_event_title">Create Event</string>
+    <string name="button_next">NEXT</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_website">Website</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_date">Date</string>
+    <string name="time">Time</string>
+    <string name="hint_addnew">Add New</string>
+    <string name="call_to_Action_button">Next: Rap Battle Event Details</string>
 </resources>
